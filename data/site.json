@@ -1,0 +1,163 @@
+{
+  "site": {
+    "name": "Vasava Speaks",
+    "nameHtml": "Vasava <em>Speaks</em>",
+    "tagline": "Simple thoughts for a clear life.",
+    "author": "Vasava",
+    "year": 2026,
+    "footerNote": "Read, reflect, and share."
+  },
+  "images": {
+    "hero": {
+      "src": "https://images.unsplash.com/photo-1789995377270-16a2a3fa46ce?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "alt": "An open notebook and a cup of tea on a wooden desk by a window overlooking misty hills at sunrise"
+    },
+    "about": {
+      "src": "images/about.jpg",
+      "alt": "Hands writing in an open journal beside a cup of tea"
+    }
+  },
+  "home": {
+    "eyebrow": "Blog",
+    "title": "Simple thoughts for a clear life.",
+    "titleHtml": "Simple thoughts for a <em>clear</em> life.",
+    "lede": "I write about clarity, habits, and mindful living — to help you slow down, think better, and grow steadily.",
+    "cta": "If these ideas help you, take your time — read, reflect, and share them with someone who may need clarity."
+  },
+  "about": {
+    "heading": "Hi, I’m Vasava.",
+    "headingHtml": "Hi, I’m <em>Vasava.</em>",
+    "lede": "I write simple, honest, and easy-to-understand blogs on life, self-growth, learning, and motivation.",
+    "paragraphs": [
+      "This blog is a space where I share thoughts that help people think clearly and grow steadily.",
+      "I write about clarity, habits, and mindful living — to help you slow down, think better, and grow steadily."
+    ],
+    "signature": "Simple thoughts for a clear life."
+  },
+  "themes": [
+    {
+      "title": "Clear thinking in a noisy world",
+      "text": "Knowing what deserves your attention, and what can wait.",
+      "postId": "thinking-clearly",
+      "icon": "focus"
+    },
+    {
+      "title": "Small habits that change daily life",
+      "text": "Steps small enough for a bad week, repeated until they become you.",
+      "postId": "why-consistency-matters",
+      "icon": "repeat"
+    },
+    {
+      "title": "Simple ideas for mental clarity and calm",
+      "text": "Ideas with the decoration removed, so you can see whether they stand.",
+      "postId": "why-simple-thinking",
+      "icon": "leaf"
+    }
+  ],
+  "posts": [
+    {
+      "id": "because-of-you",
+      "title": "Because Of You",
+      "date": "2026-01-11",
+      "category": "mindful",
+      "categoryLabel": "Mindful living",
+      "readTime": "2 min read",
+      "excerpt": "Some people change the way we think without making a speech. They listen, keep an ordinary promise, and make hurry look unnecessary.",
+      "photo": "images/because-of-you.jpg",
+      "photoAlt": "Two cups of tea and a blank note card on a sunlit wooden table",
+      "featured": false,
+      "body": [
+        { "type": "p", "text": "Some people change the way we think without making a speech." },
+        { "type": "p", "text": "They listen while a thought is still tangled. They keep an ordinary promise. They move through the day at a pace that makes constant hurry look unnecessary. Around them, life becomes a little easier to see." },
+        { "type": "p", "text": "This note is for that kind of influence." },
+        { "type": "p", "text": "You may not have called it help. You may have only been patient, or steady, or willing to tell the truth without decorating it. Still, someone nearby learned to slow down because of you. Someone began again on a plain Tuesday because of you. Someone trusted a small habit because you kept yours." },
+        { "type": "p", "text": "If these pages are useful, pass one to a person who needs a quieter mind. That is how a private thought becomes a shared one. The idea continues because of you." },
+        { "type": "quote", "lines": ["I think more clearly because of you."] },
+        { "type": "p", "text": "Gratitude can stay simple. You do not need a long message. Tell them the true thing, in a few words." }
+      ]
+    },
+    {
+      "id": "why-consistency-matters",
+      "title": "Why Consistency Matters More Than Motivation",
+      "date": "2026-01-03",
+      "category": "habits",
+      "categoryLabel": "Habits",
+      "readTime": "3 min read",
+      "excerpt": "At my heaviest, I weighed one hundred and two kilograms, with a height of 160 cm. Walking was difficult. Running was unimaginable. Even a short walk would leave me panting.",
+      "photo": "images/consistency.jpg",
+      "photoAlt": "A pair of worn walking shoes beside a misty park path at sunrise",
+      "featured": true,
+      "body": [
+        { "type": "h2", "text": "When life became physically difficult" },
+        { "type": "p", "text": "At my heaviest, I weighed one hundred and two kilograms, with a height of 160 cm. I was clearly overweight, and my body reflected that reality every day. Walking was difficult. Running was unimaginable. Even a short walk would leave me panting. There were moments when I had to stand outside and wait for my breath to settle before I could move again." },
+        { "type": "p", "text": "On those days, motivation was not the missing piece. I already wanted a lighter body. What failed me was the space between wanting and returning." },
+        { "type": "p", "text": "Motivation is a feeling. It shows up after a promise, a video, or a morning that feels possible. Then an ordinary day arrives, and the feeling is gone. A body does not change on the days you feel inspired. It changes on the days you repeat a small action anyway." },
+        { "type": "p", "text": "Consistency is less impressive than motivation, and that is why it lasts. It does not ask you to feel ready. It asks you to come back." },
+        { "type": "p", "text": "For me, the action was walking. Not a perfect plan, and not a long distance. A walk short enough to survive a tired day. Some days I was slow. Some days I had to stop. I still counted the day if I had begun." },
+        { "type": "quote", "lines": ["Motivation says, “Change everything today.”", "Consistency says, “Come back tomorrow.”"] },
+        { "type": "p", "text": "The second line is quieter. It is also the one that can build a life. Small habits look like nothing while you are inside them. Then a walk that once emptied your lungs becomes an ordinary part of the afternoon. That shift is not magic. It is repetition." },
+        { "type": "p", "text": "If you are waiting to feel motivated, you may wait through the only days that could have changed you. Choose a step small enough for a bad week. Protect it. Let clarity, health, and every other steady change grow the same way — not in a burst, but in a return." }
+      ]
+    },
+    {
+      "id": "thinking-clearly",
+      "title": "Thinking Clearly in a Noisy World",
+      "date": "2026-01-01",
+      "category": "clarity",
+      "categoryLabel": "Clarity",
+      "readTime": "3 min read",
+      "excerpt": "We live in the noisiest age in human history. In such a world, thinking clearly is no longer natural; it is a skill.",
+      "photo": "images/thinking-clearly.jpg",
+      "photoAlt": "A phone face down beside an open book and reading glasses on linen",
+      "featured": false,
+      "body": [
+        { "type": "p", "text": "We live in the noisiest age in human history. Not just noise of traffic or crowds, but mental noise — endless notifications, breaking news, opinions, reels, ads, advice, and expectations. Our minds are constantly pulled in different directions. In such a world, thinking clearly is no longer natural; it is a skill." },
+        { "type": "p", "text": "Clear thinking does not mean having an opinion about everything. It means knowing what deserves your attention, and what can wait." },
+        { "type": "p", "text": "Most noise is not asking to be understood. It is asking to be felt. A headline wants a reaction. A feed wants another minute. A piece of advice wants you to doubt your own pace. If you answer all of it, you stay busy and learn very little." },
+        { "type": "h2", "text": "A few practices help" },
+        {
+          "type": "ul",
+          "items": [
+            "Name the question before you collect opinions. A clear question is harder to abandon when the noise gets loud.",
+            "Reduce the inputs. You do not need every update in order to live well. Choose a few sources and leave the rest unread.",
+            "Pause before you conclude. Speed can feel like intelligence. Often it is only urgency. A walk, a page, or a night of sleep lets the first reaction settle.",
+            "Separate what happened from what people think about it, and from what you should do. Those are three different things.",
+            "Say it in plain words. If a thought cannot be said simply, it may not be understood yet. Simple language is a test."
+          ]
+        },
+        { "type": "p", "text": "Clear thinking is a kind skill. It keeps you from being dragged by every voice, including the loud one in your own head. The world will stay noisy. You can still keep a small quiet space in the day — enough room to see what matters, and to leave the rest alone." }
+      ]
+    },
+    {
+      "id": "why-simple-thinking",
+      "title": "Why Simple Thinking Is Powerful",
+      "date": "2026-01-01",
+      "category": "clarity",
+      "categoryLabel": "Clarity",
+      "readTime": "3 min read",
+      "excerpt": "The most powerful minds often think in the simplest ways. Simple thinking is not weak thinking.",
+      "photo": "images/simple-thinking.jpg",
+      "photoAlt": "Three smooth stones stacked beside a sprig of eucalyptus",
+      "featured": false,
+      "body": [
+        { "type": "p", "text": "In a world full of noise, speed, and constant information, thinking has become complicated. We often believe that complex problems require complex solutions. We admire people who use big words, deep theories, and complicated explanations. But in reality, the most powerful minds often think in the simplest ways." },
+        { "type": "p", "text": "Simple thinking is not weak thinking. It is an idea with the decoration removed, so you can see whether it stands." },
+        { "type": "p", "text": "Big words can hide a thin thought. Plain words cannot. When you say something simply, you find out if it is true. That moment is uncomfortable, and it is useful." },
+        { "type": "h2", "text": "Three simple questions" },
+        {
+          "type": "ul",
+          "items": [
+            "What is actually happening?",
+            "What matters here?",
+            "What is the next honest step?"
+          ]
+        },
+        { "type": "p", "text": "They sound too small for a serious life. They are not. Confusion often comes from extra layers — other people’s standards, old fears, too many goals — until a clear choice looks impossible. Simplicity takes one layer away and looks again." },
+        { "type": "p", "text": "This is not an argument against learning. Read deeply. Learn the difficult thing. Then explain it in words a tired person could follow. If the idea survives that translation, it is strong." },
+        { "type": "quote", "lines": ["A complicated plan needs a perfect morning. A simple plan can live on an ordinary one."] },
+        { "type": "p", "text": "Simple thinking also protects your days. One habit. One page. One conversation you have been postponing. Power here is not volume. It is the ability to see the essential part and stay with it." },
+        { "type": "p", "text": "Think simply. Act simply. Let the result grow at the speed of practice." }
+      ]
+    }
+  ]
+}
